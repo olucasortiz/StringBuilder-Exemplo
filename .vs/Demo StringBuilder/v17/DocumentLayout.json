@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos C#\\Demo StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|c:\\projetos c#\\demo stringbuilder\\demo stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|solutionrelative:demo stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|c:\\projetos c#\\demo stringbuilder\\demo stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|solutionrelative:demo stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|c:\\projetos c#\\demo stringbuilder\\demo stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F5A030-465A-46EC-B0D1-92442C7C864F}|Demo StringBuilder\\Demo StringBuilder.csproj|solutionrelative:demo stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Demo StringBuilder\\Entities\\Post.cs",
+              "ToolTip": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Entities\\Post.cs",
+              "RelativeToolTip": "Demo StringBuilder\\Entities\\Post.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:03:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Demo StringBuilder\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Entities\\Comment.cs",
+              "RelativeToolTip": "Demo StringBuilder\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vw0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:02:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Demo StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Projetos C#\\Demo StringBuilder\\Demo StringBuilder\\Program.cs",
+              "RelativeToolTip": "Demo StringBuilder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:01:06.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

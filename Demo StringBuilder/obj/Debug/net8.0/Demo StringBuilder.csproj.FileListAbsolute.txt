@@ -1,0 +1,14 @@
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\bin\Debug\net8.0\Demo StringBuilder.exe
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\bin\Debug\net8.0\Demo StringBuilder.deps.json
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\bin\Debug\net8.0\Demo StringBuilder.runtimeconfig.json
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\bin\Debug\net8.0\Demo StringBuilder.dll
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\bin\Debug\net8.0\Demo StringBuilder.pdb
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.AssemblyInfoInputs.cache
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.AssemblyInfo.cs
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.dll
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\refint\Demo StringBuilder.dll
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.pdb
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\Demo StringBuilder.genruntimeconfig.cache
+C:\Projetos C#\Demo StringBuilder\Demo StringBuilder\obj\Debug\net8.0\ref\Demo StringBuilder.dll
